@@ -1,7 +1,9 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Odpalenie Json Servera
+Wchodzimy w json-mock-api i robimy:
+### `npm install`
+Aby uruchomić serwer:
+### `npx json-server --watch src/db.json`
+Cieszymy się naszym mock serwerem.
 ## Available Scripts
 
 In the project directory, you can run:
