@@ -2,7 +2,8 @@
 Wchodzimy w json-mock-api i robimy:
 ### `npm install`
 Aby uruchomić serwer:
-### `npx json-server --watch src/db.json`
+### `npx json-server -p 4000 --watch src/db.json`
+(lub inny port, byle nie 3000, żeby nie kłócił się z Reactem.)<br>
 Cieszymy się naszym mock serwerem.
 ## Available Scripts
 
