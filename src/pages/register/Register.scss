@@ -1,3 +1,26 @@
 h1{
   color:red;
 }
+.login-container{
+  width:fit-content;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.card-title{
+  font-size:3rem!important;
+  float:left;
+}
+form{
+  text-align: left;
+  width:60%;
+}
+input{
+  margin-right:0!important;
+}
+
+.card-body{
+  display:flex;
+  flex-direction: column;
+}
